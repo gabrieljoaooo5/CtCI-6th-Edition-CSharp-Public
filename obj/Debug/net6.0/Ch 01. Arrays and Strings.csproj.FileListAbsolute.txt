@@ -1,0 +1,15 @@
+/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/obj/Debug/net6.0/Ch 01. Arrays and Strings.csproj.AssemblyReference.cache
+/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/obj/Debug/net6.0/Ch 01. Arrays and Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/obj/Debug/net6.0/Ch 01. Arrays and Strings.AssemblyInfoInputs.cache
+/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/obj/Debug/net6.0/Ch 01. Arrays and Strings.AssemblyInfo.cs
+/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/obj/Debug/net6.0/Ch 01. Arrays and Strings.csproj.CoreCompileInputs.cache
+/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/bin/Debug/net6.0/Ch 01. Arrays and Strings
+/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/bin/Debug/net6.0/Ch 01. Arrays and Strings.deps.json
+/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/bin/Debug/net6.0/Ch 01. Arrays and Strings.runtimeconfig.json
+/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/bin/Debug/net6.0/Ch 01. Arrays and Strings.dll
+/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/bin/Debug/net6.0/ref/Ch 01. Arrays and Strings.dll
+/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/bin/Debug/net6.0/Ch 01. Arrays and Strings.pdb
+/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/obj/Debug/net6.0/Ch 01. Arrays and Strings.dll
+/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/obj/Debug/net6.0/ref/Ch 01. Arrays and Strings.dll
+/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/obj/Debug/net6.0/Ch 01. Arrays and Strings.pdb
+/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/obj/Debug/net6.0/Ch 01. Arrays and Strings.genruntimeconfig.cache

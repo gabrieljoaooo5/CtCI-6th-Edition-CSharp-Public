@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/Ch 01. Arrays and Strings.csproj": {}
+  },
+  "projects": {
+    "/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/Ch 01. Arrays and Strings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/Ch 01. Arrays and Strings.csproj",
+        "projectName": "Ch 01. Arrays and Strings",
+        "projectPath": "/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/Ch 01. Arrays and Strings.csproj",
+        "packagesPath": "/home/joaogabriel/.nuget/packages/",
+        "outputPath": "/home/joaogabriel/CtCI-6th-Edition/Ch 01. Arrays and Strings/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/joaogabriel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/home/joaogabriel/rti_connext_dds-6.1.1/lib/dotnet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
