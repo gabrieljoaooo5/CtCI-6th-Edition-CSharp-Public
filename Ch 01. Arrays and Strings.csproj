@@ -6,7 +6,7 @@
     <RootNamespace>Chapter01</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Chapter01.Q1_02_Check_Permutation</StartupObject>
+    <StartupObject>Chapter01.Q1_03_URLify</StartupObject>
   </PropertyGroup>
 
 </Project>
